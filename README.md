@@ -89,4 +89,4 @@ O frontend estará disponível no navegador, geralmente em `http://localhost:300
 ## Tecnologias Usadas
 
 - **Backend**: Flask, Flask-CORS, Flask-SQLAlchemy
-- **Frontend**: HTML, CSS, JavaScript, Tailwind
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind
